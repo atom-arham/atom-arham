@@ -7,7 +7,6 @@
 
  **`stuff I know about : `**  **`Python`** **`Java`** **`JavaScript`** **`HTML`** **`CSS`** **`OpenCV`** **`pyQT`** **`Swing`** **`Scikit-Learn`** **`Pandas`** **`NumPy`** 
 
- **`currently learning : `** **`React`**
-
-
+ **`currently learning : `** **`React`** 
+ 
 **[`Website`](https://htmlpreview.github.io/?https://www.cs.mun.ca/~atamim/)**
